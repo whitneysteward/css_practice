@@ -1,0 +1,78 @@
+body{
+  background-color:black;
+  color:grey;
+  font-family: 'Pacifico', cursive;
+  font-weight: bold;
+}
+
+p {
+    text-align: center;
+  	font-size: 24px;
+  	font-style: normal;
+  	font-variant: normal;
+  	font-weight: 500;
+  	line-height: 26.4px;
+    opacity: 0.5;
+    border-style:grey;
+    border-color:grey;
+    margin-top: 1em;
+    margin-bottom: 20px;
+    margin-right: 70px;
+    margin-left: 50px;
+}
+
+img {
+  border-radius: 800px;
+}
+
+img:hover {
+    opacity: 0.5;
+  }
+  /*.whateverclassyouuse#wise to use body to cover whole page {cursor: url(whateveryourimageis),auto;}
+
+
+
+p1 {
+  font-family: 'Pacifico', cursive
+      font-size: 50px:
+      font-style:italic;
+      font-weight:bold;
+      text-align: center;
+      }
+
+a {
+  color:white;
+  text-decoration:none;
+}
+
+nav {
+          display: block;
+          text-decoration: none;
+          font-family: 'Pacifico', cursive
+        }
+
+.whatever {
+  width: 98%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.this{
+  position: relative;
+  top: 50px;
+  left: -200px;
+}
+
+nav:hover{
+  opacity:0.5;
+}
+
+nav:visited{
+  opacity:0.5;
+}
+
+
+a:hover + div {
+    display: block;
+}
