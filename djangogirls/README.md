@@ -1,0 +1,2 @@
+# djangogirls
+# maze.py
